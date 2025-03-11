@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+RFB#!/usr/bin/env sh
 
 # state variables
 : "${__is_submenu:=0}" "${__is_fzf_preview:=0}"
